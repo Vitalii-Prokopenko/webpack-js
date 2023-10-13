@@ -1,1 +1,0 @@
-(()=>{"use strict";var e={p:"/webpack-js/"};const t=e.p+"assets/logo.0761ebd9ed550af3d9f7.png",c=e.p+"assets/webpack-logo.c31729f30e7ffe7f2262.png",o=document.createElement("img");o.src=t;const n=document.createElement("h1");n.textContent="Webpack 5 Boilerplate";const s=document.createElement("img");s.src=c;document.querySelector("#root").append(o,n,s)})();
